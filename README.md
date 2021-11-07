@@ -11,3 +11,7 @@
 - Do certain stats translate better than others at predicting wins/losses? 
 - - (cont. ^ ) Is team offensive EPA/play a better indicator of future seasons' success / win total than defensive EPA/play
 
+
+###
+-Can we effective model win probability at certain points in the game using Machine Learning / Linear Regression?
+
