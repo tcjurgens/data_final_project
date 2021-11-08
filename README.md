@@ -7,6 +7,8 @@
 
 - Is there such thing as "being due" for a win/loss? Do teams who have failed to cover the spread for a significant period (3/4 wks?) justifiy that bettors wager on them to do so at a certain point, and vic versa
 
+- Is it really hard to beat a team 3 times? What about twice? Analysing divisional matchups
+
 ### Predictive Analysis
 - Do certain stats translate better than others at predicting wins/losses? 
 - - (cont. ^ ) Is team offensive EPA/play a better indicator of future seasons' success / win total than defensive EPA/play
