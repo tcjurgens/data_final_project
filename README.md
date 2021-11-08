@@ -21,5 +21,6 @@
 
 ### Additional Questions
 - Can we use win probability at given points in the game to predict whether or not a game will go over / under a live total line? (this question may require finding live lines at certain points in the game, which may be undoable..) Example scenario: a team reaches a 75% win probability in the 2Q, do these games go over/under the live point total at a significant rate. 
-- 
+
+- Identifying fraudulent teams comparing margin of victory with record
 
