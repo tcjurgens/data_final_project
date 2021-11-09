@@ -20,6 +20,14 @@ The image below tracks the win probability of the wk9 Sunday Night Football matc
 
 
 ### Database Structure
+below is the rough ERD diagram, where we will be able to query between databases
+<img src="https://github.com/tcjurgens/data_final_project/blob/jon/db%20images/erd.PNG">
+below is the output after uploading it to PGadmin
 <img src="https://github.com/tcjurgens/data_final_project/blob/jon/db%20images/Capture.PNG">
+<img src="https://github.com/tcjurgens/data_final_project/blob/jon/db%20images/all_game_stats.PNG">
+
+<img src="https://github.com/tcjurgens/data_final_project/blob/jon/db%20images/spreadspoke.PNG">
+<img src="https://github.com/tcjurgens/data_final_project/blob/jon/db%20images/teams.PNG">
+
 
 
