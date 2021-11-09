@@ -11,6 +11,10 @@
 
 ### Machine Learning Model
 
+We pulled NFL play-by-play data from 2021 using R and ran a win probabilty model. The code can be found in the Win Probability folder on the page, and plan to update to make it more accurate in the coming weeks. 
+
+The image below tracks the win probability of the wk9 Sunday Night Football matchup between the Rams and the visiting Titans. 
+
 <img width="694" alt="Screen Shot 2021-11-08 at 7 58 22 PM" src="https://user-images.githubusercontent.com/86446641/140842186-f931c71d-93d4-408a-8dd2-86e1220d49ac.png">
 
 
