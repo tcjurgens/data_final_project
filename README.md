@@ -20,3 +20,6 @@ The image below tracks the win probability of the wk9 Sunday Night Football matc
 
 
 ### Database Structure
+<img src="https://github.com/tcjurgens/data_final_project/blob/jon/db%20images/Capture.PNG">
+
+
