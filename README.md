@@ -13,3 +13,6 @@
 
 <img width="694" alt="Screen Shot 2021-11-08 at 7 58 22 PM" src="https://user-images.githubusercontent.com/86446641/140842186-f931c71d-93d4-408a-8dd2-86e1220d49ac.png">
 
+
+
+### Database Structure
